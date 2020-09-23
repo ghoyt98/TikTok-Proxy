@@ -22,7 +22,7 @@ class Proxy
      * URI to add before relative urls as well as default URL
      * @var string
      */
-    protected $prefix = 'https://thepiratebay.org';
+    protected $prefix = 'https://tiktok.com';
     
     /**
      * Url to piratebayproxy.php
